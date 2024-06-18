@@ -9,9 +9,10 @@ I'm Elizabeth, a commercial analyst showcasing here my learnings on developing D
 ### 📚 My projects:
 Welcome to my portfolio, where I showcase some of [my projects](https://github.com/elizabeth-gj/portfolio)
 
- ### 🔧 Tools:
+ ### 🔧 Tools & Skills:
   - Languages: SQL, Python
   - Visualization: Looker, Flourish, Tableau
+  - Exploratory Analysis, pre/post test, a/b test, funnel analysis, predictive analysis
  
 ### 👋 Connect with me...
 [on Linkedin](https://www.linkedin.com/in/elizabethgrandjouan/)
