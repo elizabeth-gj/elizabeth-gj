@@ -11,8 +11,9 @@ Welcome to my portfolio, where I showcase some of [my projects](https://github.c
 
  ### 🔧 Tools & Skills:
   - Languages: SQL, Python
-  - Visualization: Looker, Flourish, Tableau
+  - Visualization: Looker, Flourish, Tableau, Metabase
   - Exploratory Analysis, pre/post test, a/b test, funnel analysis, predictive analysis
+  - Analytics Engineering: DBT, Snowflake, Fivetran, GCP
  
 ### 👋 Connect with me...
 [on Linkedin](https://www.linkedin.com/in/elizabethgrandjouan/)
